@@ -761,7 +761,7 @@
 
     <!-- Component name of the default wallpaper. This will be ImageWallpaper if not
          specified -->
-    <string name="default_wallpaper_component" translatable="false">@null</string>
+    <string name="default_wallpaper_component" translatable="false">com.babudhi.starfield/.StarfieldWallpaper</string>
 
     <!-- True if WallpaperService is enabled -->
     <bool name="config_enableWallpaperService">true</bool>
