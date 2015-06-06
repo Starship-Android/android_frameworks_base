@@ -88,19 +88,19 @@
     <style name="TextAppearance.StatusBar.Expanded.Clock">
         <item name="android:textSize">@dimen/qs_time_expanded_size</item>
         <item name="android:fontFamily">sans-serif-medium</item>
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">#f3f3f3</item>
     </style>
 
     <style name="TextAppearance.StatusBar.Expanded.Date">
         <item name="android:textSize">@dimen/qs_date_collapsed_size</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#b2ffffff</item>
+        <item name="android:textColor">#b2f3f3f3</item>
     </style>
 
     <style name="TextAppearance.StatusBar.Expanded.AboveDateTime">
         <item name="android:textSize">@dimen/qs_emergency_calls_only_text_size</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#66ffffff</item>
+        <item name="android:textColor">#66f3f3f3</item>
     </style>
 
     <style name="TextAppearance.StatusBar.Expanded.EmergencyCallsOnly"
@@ -110,7 +110,7 @@
             parent="TextAppearance.StatusBar.Expanded.AboveDateTime" />
 
     <style name="TextAppearance.StatusBar.Expanded.Network" parent="@style/TextAppearance.StatusBar.Expanded.Date">
-        <item name="android:textColor">#999999</item>
+        <item name="android:textColor">#f3f3f3</item>
 	</style>
 
     <style name="TextAppearance.StatusBar.Expanded.Network.EmergencyOnly">
