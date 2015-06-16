@@ -67,7 +67,7 @@
         parent="@*android:style/TextAppearance.StatusBar">
         <item name="android:textAppearance">?android:attr/textAppearance</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#FF808080</item>
+        <item name="android:textColor">#FFf3f3f3</item>
     </style>
 
     <style name="TextAppearance.StatusBar.TextButton"
@@ -245,7 +245,7 @@
     <style name="TextAppearance.Material.Notification.Parenthetical"
            parent="@*android:style/TextAppearance.Material.Notification">
         <item name="android:textStyle">italic</item>
-        <item name="android:textColor">#60000000</item>
+        <item name="android:textColor">#60f3f3f3</item>
     </style>
 
     <style name="SearchPanelCircle">
